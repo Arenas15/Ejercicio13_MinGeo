@@ -1,0 +1,18 @@
+Ciudad: Mad
+Habitantes: 4000000
+Superficie: 543245.0
+Proyección habitantes 2030: 3600000.0
+Superficie ocupada: 553245.0
+
+Ciudad: Bcn
+Habitantes: 3333333
+Superficie: 34254.0
+Proyección habitantes 2030: 2999999.7
+Superficie ocupada: 44254.0
+
+Ciudad: Valencia
+Habitantes: 599994
+Superficie: 40000.0
+Proyección habitantes 2030: 539994.6
+Superficie ocupada: 50000.0
+
